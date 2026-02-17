@@ -1,7 +1,7 @@
 # VK ID
 
 ```bash
-composer require socialiteproviders/vkid
+composer require teariot/vkid
 ```
 
 ## Register an application 
