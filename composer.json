@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/vkid",
+    "name": "teariot/vkid",
     "description": "VK ID OAuth2 Provider for Laravel Socialite",
     "keywords": [
         "laravel",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^8.4",
+        "php": "^8.2",
         "ext-json": "*",
         "socialiteproviders/manager": "^4.4"
     },
